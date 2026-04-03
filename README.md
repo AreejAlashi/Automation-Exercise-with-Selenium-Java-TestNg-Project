@@ -5,6 +5,8 @@ This is an automated testing project using:
 - Selenium
 - TestNG
 - Full manual documentation
+
+  
 ⚠️ Important: To download any of these files, click on the file name, then press View raw of the preview page.
 
 The automation was performed on the "Automation Exercise" website using Eclipse IDE for product part using POM design.
